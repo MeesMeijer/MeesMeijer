@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/mees_meijer_" target="blank"><img src="https://img.shields.io/twitter/follow/mees_meijer_?logo=twitter&style=for-the-badge" alt="mees_meijer_" /></a> </p>
 
-- 🔭 I’m currently working on [Bubblez.py](https://github.com/MeesMeijer/bubblez.py)
+- 🔭 I’m currently working on [Bubblez.py](https://github.com/ProjectBubblez/bubblez.py)
 
 - 💬 Ask me about **Python**
 
