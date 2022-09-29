@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mees Meijer</h1>
-<h3 align="center">A self-tought Nodejs and Python Programmer</h3>
 
 
-- 💬 Ask me about **Python or Nodejs**
+- 💬 Ask me about **Python / Nodejs / c++ / arduino **
 
 - 📫 How to reach me **Discord: @MeeSOS#5890**
 
